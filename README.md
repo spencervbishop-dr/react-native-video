@@ -1,6 +1,9 @@
 # react-native-video
 🎬 `<Video>` component for React Native
 
+> [!WARNING]
+> This is dev branch for `6.5.0` version. It will introduce new features and improvements but now can be unstable and is not recommended for production use. Use at your own risk.
+
 ## Documentation
 documentation is available at [thewidlarzgroup.github.io/react-native-video/](https://thewidlarzgroup.github.io/react-native-video/)
 
